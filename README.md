@@ -42,7 +42,7 @@
   <h2>Contact</h2>
     <p>
         GitHub: <a href="https://github.com/Prodeep2004">Prodeep2004</a><br>
-        LinkedIn: <a href="https://www.linkedin.com/in/pradeepkumarmeengar/">pradeepkumar</a>
+        LinkedIn: <a href="https://www.linkedin.com/in/pradeepkumarmeengar/">Pradeepkumar Meengar</a>
     </p>
 
 </body>
