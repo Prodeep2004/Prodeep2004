@@ -16,7 +16,7 @@
         Google Developers Virtual Intern
     </p>
 
-    <hr>
+<hr>
 
   <h2>About Me</h2>
     <p>
