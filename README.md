@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a passionate software developer with strong interest in Full Stack Development and Artificial Intelligence. I enjoy building web applications and learning new technologies.
+I am a passionate software developer with strong interest in Full Stack Development and Artificial Intelligence. I enjoy building web applications and learning new technologies.<br>
+
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="My Image">
+
 
 
 ## 🌐 Socials:
