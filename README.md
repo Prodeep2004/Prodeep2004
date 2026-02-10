@@ -7,7 +7,7 @@
 # 💫 About Me:
 I am a passionate software developer with strong interest in Full Stack Development and Artificial Intelligence. I enjoy building web applications and learning new technologies.<br>
 
-<center> <img  height="500px" width="1100px" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="My Image"> </center>
+ <img  height="500px" width="1100px" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" alt="My Image">
 
 
 # 💻 Tech Stack:
