@@ -19,7 +19,7 @@
 <hr>
 
 
-<center><img height="800" width="800" src="[https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)" alt="Sorry Error In This Image"></center>
+<center><img height="800" width="800" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Sorry Error In This Image"></center>
 
 
   <h2>About Me</h2>
