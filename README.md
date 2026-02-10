@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a passionate software developer with strong interest in Full Stack Development and Artificial Intelligence. I enjoy building web applications and learning new technologies.<br>
 
-<img height="500px" width="400px" src="https://camo.githubusercontent.com/21834356bfe97f447537a9eaecc1c44a52941f11bd4127b40e0079306b80d876/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30392f63362f32392f30396336323930336265656261333336646339646137366562356339613130372e676966" alt="My Image">
+<img height="500px" width="400px" src="https://camo.githubusercontent.com/21834356bfe97f447537a9eaecc1c44a52941f11bd4127b40e0079306b80d876/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30392f63362f32392f30396336323930336265656261333336646339646137366562356339613130372e676966" alt="My Image"> <img height="200px" width="200px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="My Image">
 
 
 
