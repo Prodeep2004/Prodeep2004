@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Hi 👋, I'm Pradeep Meengar</h1>
+<h1>Hi 👋, I'm Pradeepkumar</h1>
 
   <p>
         MERN & Java Full Stack Intern @Q/JSpiders <br>
