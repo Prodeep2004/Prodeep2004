@@ -41,8 +41,8 @@
 
   <h2>Contact</h2>
     <p>
-        GitHub: <a href="https://github.com/your-username">your-username</a><br>
-        LinkedIn: <a href="https://linkedin.com/in/your-profile">your-profile</a>
+        GitHub: <a href="https://github.com/Prodeep2004">your-username</a><br>
+        LinkedIn: <a href="https://www.linkedin.com/in/pradeepkumarmeengar/">your-profile</a>
     </p>
 
 </body>
